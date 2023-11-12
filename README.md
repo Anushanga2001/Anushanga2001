@@ -1,16 +1,25 @@
 ### Hi there 👋
+!I'm a Enthusiastic newcomer to the world of coding, eager to apply my skills and contribute to innovative projects.
 
-<!--
-**Anushanga2001/Anushanga2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my inventory management system project
+- 🌱 I’m currently learning AI and Data Science
+- 👯 I’m looking to collaborate on software development project
+- 📫 How to reach me: anushanga2001@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+Here are some of the projects I've worked on:
+1. TIC TAC TOE Game(https://github.com/Anushanga2001/TIC-TAC-TOE): This is a group project.Did this using C++ language
+2. University computer club web site(https://github.com/Anushanga2001/web-site): This is an individual project. Did this using html, css, js and php
+3. Mobile app for Biscuit Agency(https://github.com/Anushanga2001/Mobile-app): Did this using Android studio. Used Java for it's Back-end
+You can explore more of my projects in my (https://github.com/Anushanga2001).
+
+## Languages 
+- C++
+- JAVA
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
