@@ -12,7 +12,7 @@ I'm a Enthusiastic newcomer to the world of coding, eager to apply my skills and
 
 Here are some of the projects I've worked on:
 
-1. TIC TAC TOE Game (https://github.com/Anushanga2001/TIC-TAC-TOE): This is a group project.Did this using C++ language
+1. TIC TAC TOE Game (https://github.com/Anushanga2001/TIC-TAC-TOE): This is a group project. I have implemented this functionality using C++ language
 2. University computer club web site (https://github.com/Anushanga2001/web-site): This is an individual project. I have implemented this functionality utilizing a combination of HTML, CSS, JavaScript, and PHP.
 3. Mobile app for Biscuit Agency (https://github.com/Anushanga2001/Mobile-app): Completed this using Android studio. Used Java for it's Back-end
    
