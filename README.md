@@ -3,7 +3,7 @@ I'm a Enthusiastic newcomer to the world of coding, eager to apply my skills and
 
 ## About Me
 
-- 🔭 I’m currently working on my inventory management system project
+- 🔭 I’m currently working on a Data Science Project ( AI model training )
 - 🌱 I’m currently learning AI and Data Science
 - 👯 I’m looking to collaborate on software development project
 - 📫 How to reach me: anushanga2001@gmail.com  
