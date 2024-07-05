@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Enthusiastic newcomer to the world of coding, eager to apply my skills and contribute to innovative projects.
+I'm an expert in web developing and mobile app developing, eager to apply my skills and contribute to innovative projects.And I'm an expert in Data Science also.
 
 ## About Me
 
