@@ -1,6 +1,6 @@
-Here's your updated LinkedIn summary with colorful icons for the languages and tools:
+Here's the revised version with all icons displayed in one or two lines:
 
-### Hi there 👋
+### Hi there 👋 I'm Anushanga Kaluarachchi
 I'm an expert in web development and mobile app development, eager to apply my skills and contribute to innovative projects. I'm also an expert in Data Science.
 
 ## About Me
@@ -12,19 +12,4 @@ I'm an expert in web development and mobile app development, eager to apply my s
 
 ## Languages and Tools
 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png)
-- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-- ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-- ![R Programming](https://img.icons8.com/color/48/000000/r-project.png)
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
-- ![Cisco Packet Tracer](https://img.icons8.com/color/48/000000/cisco.png)
-- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![R Programming](https://img.icons8.com/color/48/000000/r-project.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) ![Cisco Packet Tracer](https://img.icons8.com/color/48/000000/cisco.png) ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
