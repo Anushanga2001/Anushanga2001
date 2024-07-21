@@ -19,4 +19,8 @@ I'm an expert in web developing and mobile app developing, eager to apply my ski
 
 ## Tools
 
+- <img src="https://img.shields.io/badge/Orange%20Data%20Mining-FF7900?style=flat&logo=Orange&logoColor=white" alt="Orange Data Mining">
+- <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=Cisco&logoColor=white" alt="Cisco Packet Tracer">
+- <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white" alt="Azure">
+- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=white" alt="Power BI">
 
