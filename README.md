@@ -1,5 +1,3 @@
-Here's the revised version with all icons displayed in one or two lines:
-
 ### Hi there 👋 I'm Anushanga Kaluarachchi
 I'm an expert in web development and mobile app development, eager to apply my skills and contribute to innovative projects. I'm also an expert in Data Science.
 
