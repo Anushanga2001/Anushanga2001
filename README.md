@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Anushanga Kaluarachchi
-I'm an expert in web development and mobile app development, eager to apply my skills and contribute to innovative projects. I'm also an expert in Data Science.
+I'm an expert in web development and mobile app development, eager to apply my skills and contribute to innovative projects. 
+And have an knowledge in model tarining and dashboard creating.
 
 ## About Me
-
 - 🔭 I’m currently working on a Data Science Project (AI model training)
-- 🌱 I’m currently learning AI and Data Science
+- 🌱 I’m currently learning Machine Learning, AI and Data Science
 - 👯 I’m looking to collaborate on software development projects
 - 📫 How to reach me: anushanga2001@gmail.com
 
