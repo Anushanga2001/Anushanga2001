@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Anushanga Kaluarachchi
-I'm an expert in web development and mobile app development, eager to apply my skills and contribute to innovative projects. 
-And have an knowledge in model tarining and dashboard creating.
+I am a passionate and dedicated developer with strong foundational skills in web development and mobile app development, actively building my proficiency in creating full-stack applications and cross-platform mobile solutions. I am also gaining practical, hands-on experience in AI model training and building interactive data dashboards.
 
 ## About Me
 - 🔭 I’m currently working on a Data Science Project (AI model training)
