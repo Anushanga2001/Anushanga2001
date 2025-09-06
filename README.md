@@ -2,7 +2,6 @@
 I am a passionate and dedicated developer with strong foundational skills in web development and mobile app development, actively building my proficiency in creating full-stack applications and cross-platform mobile solutions. I am also gaining practical, hands-on experience in AI model training and building interactive data dashboards.
 
 ## About Me
-- 🔭 I’m currently working on a Data Science Project (AI model training)
 - 🌱 I’m currently learning Machine Learning, AI and Data Science
 - 👯 I’m looking to collaborate on software development projects
 - 📫 How to reach me: anushanga2001@gmail.com
