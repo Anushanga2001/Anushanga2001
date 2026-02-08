@@ -1,11 +1,12 @@
-### Hi there 👋 I'm Anushanga Kaluarachchi
-I am a passionate and dedicated developer with strong foundational skills in web development and mobile app development, actively building my proficiency in creating full-stack applications and cross-platform mobile solutions. I am also gaining practical, hands-on experience in AI model training and building interactive data dashboards.
+# 👋 Hi, I'm Anushanga Kaluarachchi
 
-## About Me
-- 🌱 I’m currently learning Machine Learning, AI and Data Science
-- 👯 I’m looking to collaborate on software development projects
-- 📫 How to reach me: anushanga2001@gmail.com
+Web and Windows Application Developer with hands-on experience in building scalable, maintainable applications using modern technologies. I work across the full stack, focusing on clean architecture, performance, and reliability.
 
-## Languages and Tools
+💻 Tech: .NET (C#), ASP.NET Core, React, TypeScript, Node.js  
+☁️ Cloud & DevOps: Azure Services, Docker, Azure DevOps  
+🧪 Testing: Playwright, Selenium  
+🎨 UI/UX: Figma, Bootstrap, Tailwind CSS  
+🧰 Tools: Git, GitHub, Visual Studio, VS Code  
 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+📫 Email: anushanga2001@gmail.com  
+🤝 Open to collaboration on web, Windows, and cloud-based projects
