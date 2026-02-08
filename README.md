@@ -3,7 +3,7 @@
 Web and Windows Application Developer focused on building scalable, maintainable applications with modern stacks. Experienced across full-stack development, cloud deployment, and automated testing.
 
 ### 🛠️ Tech Stack
-![.NET](https://img.icons8.com/color/48/dotnet.png)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
 ![React](https://img.icons8.com/color/48/react-native.png)
 ![TypeScript](https://img.icons8.com/color/48/typescript.png)
